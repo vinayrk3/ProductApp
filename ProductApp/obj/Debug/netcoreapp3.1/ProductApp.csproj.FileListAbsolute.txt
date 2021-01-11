@@ -1,0 +1,13 @@
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.csprojAssemblyReference.cache
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.AssemblyInfoInputs.cache
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.AssemblyInfo.cs
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.csproj.CoreCompileInputs.cache
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.exe
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.deps.json
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.runtimeconfig.json
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.runtimeconfig.dev.json
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.dll
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.pdb
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.dll
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.pdb
+D:\HTML Tutorial\WF3\C Sharp\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.genruntimeconfig.cache
